@@ -1,5 +1,5 @@
 /*
-* ArrayList implementation written by myself as an assignment for another class
+* ArrayList implementation written by myself 
 * Used throughout FlightSimulator.c for simplicity.
 * Hopefully no unsafe operations were done from here 
 */
